@@ -14,13 +14,13 @@ This project is created for learning and practicing **frontend web development**
 - **HTML** – Page structure  
 - **CSS** – Styling and layout  
 
-<pre>
 ## 📂 Project Structure
-amazon-clone/
-│── index.html
-│── style.css
-│── images
-</pre>
+
+- **amazon-clone**
+- │── index.html
+- │── style.css
+- │── images
+
 ## 👤 Author
 **Chirag Gupta**
 
