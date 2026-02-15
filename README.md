@@ -17,9 +17,9 @@ This project is created for learning and practicing **frontend web development**
 ## 📂 Project Structure
 
 - **amazon-clone**
-- │── index.html
-- │── style.css
-- │── images
+   │── index.html<br>
+   │── style.css<br>
+   │── images<br>
 
 ## 👤 Author
 **Chirag Gupta**
