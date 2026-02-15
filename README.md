@@ -16,7 +16,7 @@ This project is created for learning and practicing **frontend web development**
 
 ## 📂 Project Structure
 
-- **amazon-clone**
+- **amazon-clone**<br>
    │── index.html<br>
    │── style.css<br>
    │── images<br>
