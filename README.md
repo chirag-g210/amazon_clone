@@ -21,10 +21,9 @@ amazon-clone/
 │── style.css
 │── images
 </pre>
-<pre>
-👤 Author
-Chirag Gupta
+## 👤 Author
+**Chirag Gupta**
+
+---
 
 ⭐ If you like this project, give it a star on GitHub!
-
-</pre>
