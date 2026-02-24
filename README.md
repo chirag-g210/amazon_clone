@@ -20,8 +20,8 @@ This project is created for learning and practicing **frontend web development**
 ---
 
 ## 📂 Project Structure
-- **amazon-clone**
 <pre>
+   amazon_clone/
    │── amazon_logo.png
    │── box1_image.jpg
    │── box2_image.jpg
